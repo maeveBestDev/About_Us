@@ -15,6 +15,6 @@
     <p></p>
     <p><strong>Mathis Flinois :</strong> chômeur pro, il est là sans être vraiment là jpp.
     <p></p>
-    <button><a href="https://maevebestdev.github.io/NSI/">Aceuil</button>
+    <button><a href="https://maevebestdev.github.io/NSI/">Retour à l'acceuil</button>
     </body>
 </html>
