@@ -7,6 +7,7 @@
 
   <body>
         <h1>About us :</h1>
+    <p>Rechercher un GIF : <input type="text"/></p>
         <p><strong>Les développeurs :</strong></p>
     <p></p>
     <p><strong>Baptiste Joannet :</strong> Le meilleur des meilleurs. Le développeur qui a coder les pages du site. </p>
