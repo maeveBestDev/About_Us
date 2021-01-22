@@ -9,7 +9,7 @@
         <h1>About us :</h1>
         <p><strong>Les développeurs :</strong></p>
     <p></p>
-    <p><strong>Baptiste Jonnet :</strong> Le meilleur des meilleurs. Le développeur qui a coder les pages du site. </p>
+    <p><strong>Baptiste Joannet :</strong> Le meilleur des meilleurs. Le développeur qui a coder les pages du site. </p>
     <p></p>
     <p><strong>Aïmen Hbarou :</strong> Le développeur technique du site, celui qui s'est occupé de la coordination entre les différentes pages.
     <p></p>
