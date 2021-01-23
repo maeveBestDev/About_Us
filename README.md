@@ -5,7 +5,7 @@
     </head>
 
   <body>
-        <h1>About us :</h1>
+        <h1>Les développeurs :</h1>
     <form role="search">
   <div>
     <input type="search" id="maRecherche" name="q"
@@ -14,7 +14,6 @@
     <button>Rechercher</button>
   </div>
 </form>
-        <p><strong>Les développeurs :</strong></p>
     <p></p>
     <p><strong>Baptiste Joannet :</strong> Le meilleur des meilleurs. Le développeur qui a coder les pages du site. </p>
     <p></p>
