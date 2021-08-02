@@ -12,11 +12,10 @@
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <p></p>
-    <p><strong>Baptiste Joannet :</strong> Le meilleur des meilleurs. Le développeur qui a coder les pages du site. </p>
+      <p>Bonjour, je suis <strong>Maeve</strong> développeur informatique. J'ai plusieurs divers projets en cour comme un bot discord, ce site et mon plus gros projet : un jeu vidéos en FPS basé sur l'univers Warhammer 40,000. Vous pouvez retouver ces différent projet ranger dans différente catégorie sur ce site, accessible depuis <a href="https://maevebestdev.github.io/Main_Page/">l'Acceuil</a>.</p>
+        <p> </p>
     <p></p>
-    <p><strong>Aïmen Hbarou :</strong> Le développeur technique du site, celui qui s'est occupé de la coordination entre les différentes pages.
+    <a href="https://maevebestdev.github.io/Help/">Help</a>
     <p></p>
-    <p><strong>Mathis Flinois :</strong> Le développeur qui s'est occuper de l'aspect graphique du site.
-    <p></p>
-    <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil
+    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
 <script src="script.js"></script>
