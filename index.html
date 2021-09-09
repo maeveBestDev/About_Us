@@ -15,7 +15,7 @@
     <p></p>
       <p>Bonjour, je suis <strong>Maeve</strong> développeur informatique. J'ai plusieurs divers projets en cour comme un bot discord, ce site et mon plus gros projet : un jeu vidéos en FPS basé sur l'univers Warhammer 40,000. Vous pouvez retouver ces différent projet ranger dans différente catégorie sur ce site, accessible depuis <a href="https://maevebestdev.github.io/Main_Page/">l'Acceuil</a>.</p>
       
-                <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885503216740085820/aaa.jpg)"></div>
+                <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885540768163442688/totalement_2.png?width=509&height=427)"></div>
     
         <p> </p>
     <p></p>
