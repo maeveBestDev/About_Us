@@ -12,11 +12,10 @@
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <p></p>
-      <p>Bonjour, je suis <strong>Maeve</strong> développeur informatique. J'ai plusieurs divers projets en cour comme un bot discord, ce site et mon plus gros projet : un jeu vidéos en FPS basé sur l'univers Warhammer 40,000. Vous pouvez retouver ces différent projet ranger dans différente catégorie sur ce site, accessible depuis <a>
+      <p>Bonjour, je suis <strong>Maeve</strong> développeur informatique. J'ai plusieurs divers projets en cour comme un bot discord, ce site et mon plus gros projet : un jeu vidéos en FPS basé sur l'univers Warhammer 40,000. Vous pouvez retouver ces différent projet ranger dans différente catégorie sur ce site, accessible depuis <a href="https://maevebestdev.github.io/Main_Page/">l'Acceuil</a>.</p>
       
                 <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885485954595450880/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background.jpg?width=860&height=427)"></div>
     
-      <a href="https://maevebestdev.github.io/Main_Page/">l'Acceuil</a>.</p>
         <p> </p>
     <p></p>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
