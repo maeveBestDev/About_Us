@@ -16,7 +16,7 @@
       
                 <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885485954595450880/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background.jpg?width=860&height=427)"></div>
     
-      href="https://maevebestdev.github.io/Main_Page/">l'Acceuil</a>.</p>
+      <a href="https://maevebestdev.github.io/Main_Page/">l'Acceuil</a>.</p>
         <p> </p>
     <p></p>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
