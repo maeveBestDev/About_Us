@@ -1,4 +1,4 @@
-<html lang="fr">
+<html lang="en">
     <head>
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta charset="utf-8">
@@ -7,11 +7,16 @@
     </head>
 
   <body>
-        <h1>A short introduction :</h1>
-<form>
-<input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
-<input type="button" id="bouton" value="Rechercher" onclick="controle()">
+     <form role="search">
+  <div>
+    <input type="search" id="maRecherche" name="q"
+     placeholder="Search the site..."
+     aria-label="Rechercher parmi le contenu du site">
+    <button>Research</button>
+  </div>
 </form>
+      
+        <h1>A short introduction :</h1>
     <p></p>
       <p>Greetings, I'm <strong>Maeve</strong> an IT developer. I have several projects currently like a discord bot, this site and my biggest project: an FPS video game based on the Warhammer 40,000 universe. You can retrieve these different projects put in another category on this site, accessible from <a href="https://maevebestdev.github.io/Main_Page/">Home</a>.</p>
       
